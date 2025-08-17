@@ -89,7 +89,7 @@ body{
 
 @media (min-width: 1440px){
   .container{
-    max-width: 520px;
-    margin: 8% auto;
+    max-width: 25vw;
+    margin: 20% auto;
   }
 }
